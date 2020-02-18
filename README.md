@@ -1,3 +1,7 @@
+
+![](https://media.giphy.com/media/k1LXfkDVH0eTC/giphy.gif)
+
+
 ## Introduction
 
 Boston Dynamics' BigDog and WildCat all are real life hardware...real world robots who walk similar to a horse or any quadruped...but with increasing hardware costs...its difficult to repair them over and over again if they are damaged...so, one of the better ways is to train a robot to do tasks in a simulation.
