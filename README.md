@@ -9,4 +9,4 @@ Boston Dynamics' BigDog and WildCat all are real life hardware...real world robo
 This project does that. It used one of the cutting edge algorithms in AI(which surpassed even Reinforcement Learning in this case): the Augmented Random Search(ARS) algo.
 
 ![](https://raw.githubusercontent.com/tristandeleu/pytorch-maml-rl/master/_assets/halfcheetahdir.gif)
-![](https://user-images.githubusercontent.com/306655/28886801-9682c7a4-776f-11e7-8c28-8dd5b7f9b0e9.gif)
+![](https://i.imgur.com/GJW5vP2.gif)
