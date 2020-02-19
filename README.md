@@ -1,6 +1,6 @@
 
 ![](https://media.giphy.com/media/k1LXfkDVH0eTC/giphy.gif)
-![](https://1.bp.blogspot.com/-gy_yS4bfQTQ/XkzLUDoH-rI/AAAAAAAAR-s/mFoReZw6dhwWv2D0PggNJbZIa2apmVHSwCLcBGAsYHQ/s320/mit_cheetah.gif)
+![](https://1.bp.blogspot.com/-mYkV3mCFchg/XkzMBxflU_I/AAAAAAAAR-0/pDPuCDGJB6A6w8P4GTcDQsto2DYDlSXzQCLcBGAsYHQ/s1600/mit_cheetah.gif)
 
 ## Introduction
 
