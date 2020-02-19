@@ -1,6 +1,6 @@
 
 ![](https://media.giphy.com/media/k1LXfkDVH0eTC/giphy.gif)
-![](https://im3.ezgif.com/tmp/ezgif-3-c8002db13927.gif)
+![](https://1.bp.blogspot.com/-gy_yS4bfQTQ/XkzLUDoH-rI/AAAAAAAAR-s/mFoReZw6dhwWv2D0PggNJbZIa2apmVHSwCLcBGAsYHQ/s320/mit_cheetah.gif)
 
 ## Introduction
 
